@@ -1,0 +1,7 @@
+*.cblite
+*.cblite-shm
+*.cblite-wal
+*.bak
+*.gexf
+*.gephi
+.idea/*
